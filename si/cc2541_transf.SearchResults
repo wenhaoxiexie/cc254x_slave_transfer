@@ -1,0 +1,4 @@
+---- CMD_PASSKEY Matches (3 in 2 files) ----
+SerialCMD.c (e:\project\cc2541_transf\2541_1.83\projects\ble\simplebleperipheral\source):      CMD_PASSKEY( DataBuff,typecommand);        //–ﬁ∏ƒ≈‰∂‘√‹¬Î
+SerialCMD.c (e:\project\cc2541_transf\2541_1.83\projects\ble\simplebleperipheral\source):void CMD_PASSKEY(uint8 *new_passkey,uint8 typecommand)
+SerialCMD.h (e:\project\cc2541_transf\2541_1.83\projects\ble\simplebleperipheral\source):void CMD_PASSKEY(uint8 *new_passkey,uint8 typecommand);
